@@ -14,7 +14,7 @@ Once you have locally cloned the repository, go into the command line(into the r
 
 ## Webdrivers
 Currently I've only been running tests from the Edge(Chromium browser). 
-Download the latest version of Edge(Chromium) from [Microsoft](https://www.microsoft.com/en-us/edge)
+Download the latest version of Edge(Chromium) from [Microsoft](https://www.microsoft.com/en-us/edge).
 Download the webdriver for the current version of Edge(Chromium not the legacy Edge)
 [EdgeWebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 

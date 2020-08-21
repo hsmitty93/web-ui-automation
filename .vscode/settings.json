@@ -1,0 +1,7 @@
+{
+    "python.venvPath": "C:/Users/hsmit/projects/virtualenvs",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "autoDocstring.docstringFormat": "sphinx",
+    "editor.formatOnSave": true,
+    "python.pythonPath": "C:\\Users\\hsmit\\projects\\virtualenvs\\web-ui-automation\\Scripts\\python.exe"
+}
